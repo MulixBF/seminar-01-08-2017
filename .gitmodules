@@ -1,0 +1,6 @@
+[submodule "conv_arithmetic"]
+	path = conv_arithmetic
+	url = https://github.com/vdumoulin/conv_arithmetic.git
+[submodule "keras-filter-visualization"]
+	path = keras-filter-visualization
+	url = https://github.com/jacobgil/keras-filter-visualization.git
