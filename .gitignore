@@ -1,2 +1,5 @@
 .ipynb_checkpoints/
 data/101_ObjectCategories
+data/max_deconv/
+data/max_im/
+data/regularized_opt/
